@@ -47,24 +47,6 @@ Simply open index.html in any modern web browser - no installation required!
 Option 2: Live Demo
 Try the live demo here (Add your deployment link)
 
-Option 3: Local Development
-bash
-# Clone the repository
-git clone https://github.com/yourusername/universal-data-translator.git
-
-# Navigate to the project directory
-cd universal-data-translator
-
-# Open in your browser
-open index.html
-# or
-start index.html
-# or
-xdg-open index.html
-📖 How to Use
-Basic Conversion
-Enter data in the left panel
-
 Select input format (or use auto-detect)
 
 Choose output format in the right panel
