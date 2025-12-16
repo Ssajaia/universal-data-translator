@@ -1,11 +1,5 @@
 Universal Data Translator
 
-https://img.shields.io/badge/Universal-Data%2520Translator-blue
-
-https://img.shields.io/badge/version-2.0.0-green
-https://img.shields.io/badge/license-MIT-orange
-https://img.shields.io/badge/formats-4-yellow
-
 Real-time auto-converting data format translator for developers, engineers, and data professionals. Seamlessly convert between JSON, YAML, XML, and TOML with intelligent auto-detection and validation.
 
 ✨ Features
